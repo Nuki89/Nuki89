@@ -1,6 +1,6 @@
 ## Hello, call me Nuki :)
 
-> 💻 Full Stack Dev ⚙️ Backend • 🎨 Frontend • 🚀 DevOps-in-training
+> 💻 Full Stack Dev • 🚀 DevOps-in-training
 
 ---
 ## Tech Stack
