@@ -18,7 +18,6 @@
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Frontend-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![jQuery](https://img.shields.io/badge/Frontend-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Database
 ![Sqlite](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
