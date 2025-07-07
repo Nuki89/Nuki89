@@ -1,4 +1,4 @@
-## Hello, call me Nuki :)
+## Hey there!
 
 > 💻 Full Stack Dev • 🚀 DevOps-in-training
 
