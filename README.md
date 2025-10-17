@@ -1,6 +1,6 @@
 ## Hey there!
 
-> 💻 Full Stack Dev • 🚀 DevOps-in-training
+> 💻 Software Engineer | Full Stack & Systems Integration • 🚀 DevOps-in-training
 
 ---
 ## Tech Stack
